@@ -1,0 +1,65 @@
+body{
+  background: white;
+  color: green;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+h1 {
+	color: white;
+	font-family:raleway; font-size: 54px; padding: 50px;
+	text-shadow: 1px 1px 5px red;
+}
+
+h2{color: #6d70c6; font-family: oswald; text-align: center;
+
+}
+ p{
+ 	color: #0b8457;font-family: oswald;text-align: center
+}
+a {
+  color: blue; text-decoration: none; text-align: center
+}
+a:hover {
+  text-decoration: none;
+  color: purple; text-align: center;
+}
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+footer{color: black;
+font-size: 10px; font-family: raleway; text-align: center}
+#banner{
+	text-align: center; 
+	background-image: url("https://images.unsplash.com/photo-1517021897933-0e0319cfbc28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=838&q=80");
+	padding: 150px
+	background-size: cover;
+
+
+}
+#banner h1 { 
+	text-shadow: 1px 1px 5px grey;
+}
+#banner p{
+	text-shadow: 1px 1px 5px black;
+}
+.second-line{
+	color: white
+}
+#footer {
+	padding: 30px;
+	background-color: black;
+	color: lightgrey;
+}
+.fab{
+font-size: 20px;
+color: white;
+text-align: left;
+}
+.fab:hover{
+	color:pink;
+}
+#description{
+	color: black;
+}
